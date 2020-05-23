@@ -16,6 +16,8 @@ public class NewMain {
      */
     public static void main(String[] args) {
         System.out.println("vai shdhas");
+        System.out.println("vai rawrteuywuyqruyreryuwquryeurywquyrteytuqyuwey");
+        System.out.println("vai asjkdjksajdjk");
     }
     
 }
